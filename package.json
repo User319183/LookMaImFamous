@@ -1,0 +1,10 @@
+{
+	"name": "lookmaimfamous",
+	"version": "1.0.0",
+	"scripts": {
+		"build": "tailwindcss -o styles.css"
+	},
+	"dependencies": {
+		"tailwindcss": "^3.4.14"
+	}
+}
